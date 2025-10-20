@@ -1,8 +1,10 @@
-mots_minimum = 900
-mots_maximum = 1200
-url_lien = https://walensky-shop.fr/collections/tableau-espace
-ancre_lien = tableaux espace
-tags = espace
-collection_id = 624731095374
-theme= art tableau mural sur l'espace 
-BLOG_ID=115685687630
+url_lien = https://walensky-shop.fr/collections/tableau-pour-salle-de-bain
+ancre_lien = tableaux pour Salle de bain 
+tags = Salle de bain 
+collection_id = 645541495118
+
+
+BLOG_ID=115690963278
+
+
+
